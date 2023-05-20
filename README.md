@@ -32,9 +32,9 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 - Text Analysis
 
 # Methodology:
-**Data Understanding:** Dataset have 5012 rows and 14 columns. In two column, metro and workers null values.
+**Data Understanding:** Dataset have 8807 rows and 12 columns. Null values in 6 columns.
 
-**Data Preprocessing:** Here we change the datatype where needed. Dealing with missing value. Remove the unwanted column.
+**Data Preprocessing:** Here we change the datatype where needed. Dealing with missing value.
 
 **Data Visualization:** Completed all tasks by different visualization.
 
