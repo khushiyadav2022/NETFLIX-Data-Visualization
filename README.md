@@ -19,7 +19,7 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 - 'duration' column has 3 null values, indicating that the duration information is missing for those entries.
 
-[Notebook]()
+[Notebook](https://github.com/khushiyadav2022/NETFLIX-Data-Visualization/blob/2e446117f4ccdaa04967876c4b9336ad12bb75df/netflix-data-visualization%20(1).ipynb)
 
 # Task:
 - Content Type Analysis
