@@ -40,6 +40,10 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 **Data Visualization:** Completed all tasks by different visualization.
 
+# Dashboard:
+<img width="413" alt="netflix dashboard" src="https://github.com/khushiyadav2022/NETFLIX-Data-Visualization/assets/108923908/f641aede-fc1b-4d83-bcdd-e4bf98719214">
+
+
 # Conclusion:
 - The majority of the content in the dataset consists of movies (6131 titles), while TV shows make up a smaller portion (2676 titles).
 - The top 10 most prolific directors on Netflix are Rajiv Chilaka, Raúl Campos, Jan Suter, Suhas Kadav, Marcus Raboy, and Jay Karas, indicating their significant contribution to the Netflix content library.
